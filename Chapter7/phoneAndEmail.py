@@ -1,4 +1,4 @@
-#! /usr/bin/python3.5
+#! /usr/bin/python3
 #phoneAndEmail.py finds all of the phone numbers and email addresses in 
 #the currently copied clipboard text and pastes them to the clipboard
 
